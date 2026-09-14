@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=egg&height=300&color=1f1f1f&text=Jonathan%20Devine&desc=welcome%20to%20my%20github&fontColor=bebdb1&fontSize=50&animation=blink&section=header)
-  <p align="center">Working my web development</p>
-  <p align="center">Learning C and JS</p>
-  <p align="center">Reach me at: jonneh.devine@gmail.com</p>
-  <p align="center">Fun facts: I work on Hondas during the day, computers at night.
-  I also love my dog and playing guitar :)</p>
+
+![body](https://capsule-render.vercel.app/api?type=transparent&height=300&color=gradient&text=README.md&fontColor=bebdb1&desc=-nl-Working%20on%20web%20development-nl-%20-nl-Learning%20C%20and%20JS-nl-%20-nl-%20Email%20me:%20devinethygesenj@gmail.com&descSize=20&fontSize=60)
 
 ![footer](https://capsule-render.vercel.app/api?type=egg&height=300&color=1f1f1f&fontColor=bebdb1&fontSize=50&animation=blink&textBg=false&section=footer)
