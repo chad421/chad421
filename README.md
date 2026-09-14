@@ -7,4 +7,5 @@
   <li>⚡ Fun facts: I work on Hondas during the day, computers at night.
   I also love my dog and playing guitar :)</li>
 </ul>
+
 ![footer](https://capsule-render.vercel.app/api?type=egg&height=300&color=1f1f1f&fontColor=bebdb1&fontSize=50&animation=blink&textBg=false&section=footer)
