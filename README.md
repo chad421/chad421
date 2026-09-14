@@ -1,11 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=egg&height=300&color=1f1f1f&text=Jonathan%20Devine&desc=welcome%20to%20my%20github&fontColor=bebdb1&fontSize=50&animation=blink&section=header)
-<ul align="center">
-  <li align="center">🔭 I’m currently working my web development</li>
-  <li align="center">🌱 I’m currently learning C and JS!</li>
-  <li align="center">💬 Ask me about Witch of the Wheel!</li>
-  <li align="center">📫 How to reach me: jonneh.devine@gmail.com</li>
-  <li align="center">⚡ Fun facts: I work on Hondas during the day, computers at night.
-  I also love my dog and playing guitar :)</li>
-</ul>
+  <p align="center">Working my web development</p>
+  <p align="center">Learning C and JS</p>
+  <p align="center">Reach me at: jonneh.devine@gmail.com</p>
+  <p align="center">Fun facts: I work on Hondas during the day, computers at night.
+  I also love my dog and playing guitar :)</p>
 
 ![footer](https://capsule-render.vercel.app/api?type=egg&height=300&color=1f1f1f&fontColor=bebdb1&fontSize=50&animation=blink&textBg=false&section=footer)
